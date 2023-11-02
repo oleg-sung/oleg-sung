@@ -1,4 +1,6 @@
-### Hi there 👋
+### Привет 
+Я Олег Сунгуровский, разработчик на python.
+
 
 <!--
 **oleg-sung/oleg-sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
