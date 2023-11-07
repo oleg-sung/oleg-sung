@@ -19,7 +19,7 @@
 * Курсовая работа: [Резервное копирование](https://github.com/oleg-sung/Course-work)
 * Пет-проект: [My blog](https://github.com/oleg-sung/My_Blog)
 
-### Мое сертефикаты:
+### Мое сертификаты:
 * [Основы языка программирования Python](https://github.com/oleg-sung/Certificates/blob/main/certificate_python_basic.pdf)
 * [Git - система контроля версий](https://github.com/oleg-sung/Certificates/blob/main/certificate_git.pdf)
 * [База данных для python-разработчика](https://github.com/oleg-sung/Certificates/blob/main/certificate_sql.pdf)
