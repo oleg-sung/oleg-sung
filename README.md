@@ -1,6 +1,11 @@
 ### Привет! 
 Я **Олег Сунгуровский**, разработчик на python.
 
+Контакты:
+* Telegram: https://t.me/TonypoonY
+* Email: <safasgasc.asfg@gmail.com>
+* Phone: 89307029928
+
 ### Мои навыки:
 * Python. [Примеры работ](https://github.com/oleg-sung/Python-homework)
 * Git. [Примеры работ](https://github.com/oleg-sung/Git-homework)
@@ -15,18 +20,11 @@
 * Пет-проект: [My blog](https://github.com/oleg-sung/My_Blog)
 
 ### Мое сертефикаты:
-*
-<!--
-**oleg-sung/oleg-sung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [Основы языка программирования Python](https://github.com/oleg-sung/Certificates/blob/main/certificate_python_basic.pdf)
+* [Git - система контроля версий](https://github.com/oleg-sung/Certificates/blob/main/certificate_git.pdf)
+* [База данных для python-разработчика](https://github.com/oleg-sung/Certificates/blob/main/certificate_sql.pdf)
+* [Профессиональная работа с python](https://github.com/oleg-sung/Certificates/blob/main/certificate_python_professional.pdf)
+* [Django: создание функциональных веб-приложений](https://github.com/oleg-sung/Certificates/blob/main/certificate_django.pdf)
+* [Python в веб-разработке](https://github.com/oleg-sung/Certificates/blob/main/certificate_web-python.pdf)
+* [Python-разработчик с нуля](https://github.com/oleg-sung/Certificates/blob/main/certificate_python_developer.pdf)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
