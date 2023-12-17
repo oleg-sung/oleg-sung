@@ -17,7 +17,9 @@
 * Дипломный проект: [API Сервис заказа товаров для розничных сетей](https://github.com/oleg-sung/python-final-diplom)
 * Курсовая работа: [VKinder](https://github.com/VladIakimenko/VKinder)
 * Курсовая работа: [Резервное копирование](https://github.com/oleg-sung/Course-work)
-* Пет-проект: [My blog](https://github.com/oleg-sung/My_Blog)
+* Пет-проекты:
+   - [Social-website](https://github.com/oleg-sung/Social-Website)
+   - [My blog](https://github.com/oleg-sung/My_Blog)
 
 ### Мое сертификаты:
 * [Основы языка программирования Python](https://github.com/oleg-sung/Certificates/blob/main/certificate_python_basic.pdf)
